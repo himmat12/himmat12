@@ -13,7 +13,7 @@
 
 - 🔭 Profession: **Mobile Apps Developer [Flutter]**
 - 🌱 Intrested: **Kotlin/Python/Django/DAS/Design Patterns/Blockchain/Automation & Bots/linux**
-- 👯 Collaborate with on [**YouTube**](https://www.youtube.com/channel/UCO6xqyNDG_U2aVKj8K_7Lvw) & [**github**](https://github.com/kaledai)
+- 👯 Collaborate with me on [**YouTube**](https://www.youtube.com/channel/UCO6xqyNDG_U2aVKj8K_7Lvw) & [**github**](https://github.com/kaledai)
 - 🤔 I’m looking for help with **Python Bots & Blockchain**
 - 💬 Ask me about **Flutter & Tech related stuffs**
 - 📫 connect: *himmatrai20@gmail.com*

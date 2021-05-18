@@ -18,7 +18,9 @@
 - 💬 Ask me about **Flutter & Tech related stuffs**
 - 📫 connect: *himmatrai20@gmail.com*
 - 😄 Pronouns: he/him/**kaledai**
-- ⚡ Fun fact: no **fun facts** sorry to **disppoint** you ...
+- ⚡ Fun fact: no **fun facts** sorry to **disppoint** you 
+
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kaledai&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 

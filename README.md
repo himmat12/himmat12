@@ -6,7 +6,7 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 Profession: Mobile Apps Developer
-- 🌱 Intrested: Flutter/Kotlin/Python/Django/DAS/Design Patterns
+- 🌱 Intrested: Flutter/Kotlin/Python/Django/DAS/Design Patterns/Blockchain/Autmation & Bots/linux
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about ...

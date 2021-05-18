@@ -24,7 +24,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kaledai&margin-w=15)](https://github.com/kaledai?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaledai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaledai&layout=compact)](https://github.com/kaledai?tab=repositories)
 
 ![Status](https://github-readme-stats.vercel.app/api?username=kaledai&&show_icons=true&count_private=true&title_color=00000&icon_color=bb2acf&text_color=00000&bg_color=ffffff)
 

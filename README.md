@@ -20,6 +20,13 @@
 - 😄 Pronouns: he/him/**kaledai**
 - ⚡ Fun fact: no **fun facts** sorry to **disppoint** you 
 
+## Languages and tools
+
+<code><img height="20" src="https://avatars.githubusercontent.com/u/14101776?s=20&v=4" alt="Flutter"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/1609975?s=20&v=4" alt="Dart"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/18133?s=20&v=4" alt="Git"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/9950313?s=20&v=4" alt="sql"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="html"></code>
 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=kaledai&margin-w=15)](https://github.com/kaledai?tab=repositories) -->

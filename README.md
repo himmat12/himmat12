@@ -12,11 +12,11 @@
 
 
 - 🔭 Profession: **Mobile Apps Developer [Flutter]**
-- 🌱 Intrested: **Kotlin/Python/Django/DAS/Design Patterns/Blockchain/Automation & Bots/linux**
+- 🌱 Intrested: **Kotlin/Python/Django/DAS/Design Patterns/Blockchain/Automation & Bots/linux/Solidity**
 - 👯 Collaborate with me on [**YouTube**](https://www.youtube.com/channel/UCO6xqyNDG_U2aVKj8K_7Lvw) & [**github**](https://github.com/kaledai)
 - 🤔 I’m looking for help with **Python Bots & Blockchain**
 - 💬 Ask me about **Flutter & Tech related stuffs**
-- 📫 connect: *himmatrai20@gmail.com*
+- 📫 connect: **himmatrai20@gmail.com**
 - 😄 Pronouns: he/him/**kaledai**
 - ⚡ Fun fact: no **fun facts** sorry to **disppoint** you 
 

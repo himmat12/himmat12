@@ -1,4 +1,4 @@
-## Greetings, I'm Himmat Rai (kaledai) 👋
+## Greetings, I'm Himmat Rai 👋
 
 
 <!-- **kaledai/kaledai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->

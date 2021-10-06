@@ -17,7 +17,6 @@
 - 🤔 I’m looking for help with **Python & Solidity**
 - 💬 Ask me about **Flutter & Tech related stuffs**
 - 📫 connect: **himmatrai20@gmail.com**
-- 😄 Pronouns: he/him/**kaledai**
 - ⚡ Fun fact: no **fun facts** sorry to **disppoint** you 
 
 

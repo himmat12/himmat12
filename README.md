@@ -4,7 +4,7 @@
 <!-- **kaledai/kaledai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started: -->
-![Profile views](https://gpvc.arturio.dev/kaledai) [![GitHub followers](https://img.shields.io/github/followers/kaledai.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/kaledai?tab=followers)  
+![Profile views](https://gpvc.arturio.dev/himmat12) [![GitHub followers](https://img.shields.io/github/followers/himmat12.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/kaledai?tab=followers)  
 <!-- [![GitHub stars](https://img.shields.io/github/stars/kaledai/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/kaledai/StrapDown.js/stargazers/) [![GitHub forks](https://img.shields.io/github/forks/kaledai/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/kaledai/StrapDown.js/network/)
  -->
 

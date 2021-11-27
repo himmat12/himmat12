@@ -83,11 +83,11 @@
 
 #### Work experience:
 
-| ![Code IT](https://codeitapps.com/) | Period of work (Oct 6, 2019 - Jul 29, 2020) |
+| [Code IT](https://codeitapps.com/) | Period of work (Oct 6, 2019 - Jul 29, 2020) |
 |:---------:|:----------------------------------:|
 | Flutter Dev | Worked as Junior Flutter Developer |
 
-| Triyumph Technologies Nepal | Period of work (Nov 1, 2020 - Today) |
+| [Triyumph Technologies Nepal](https://triumphtech.com.np/) | Period of work (Nov 1, 2020 - Today) |
 |:---------:|:----------------------------------:|
 | Flutter Dev | Worked as a Lead Flutter Developer, maintaining different clients projects. |
 

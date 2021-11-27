@@ -83,13 +83,13 @@
 
 #### Work experience:
 
-| Code IT | Period of work (mm/yyyy - mm/yyyy) |
+| Code IT | Period of work (Oct 6, 2019 - Jul 29, 2020) |
 |:---------:|:----------------------------------:|
 | Flutter Dev | Description about position 1 |
 
-| Triyumph Tech | Period of work (mm/yyyy - mm/yyyy) |
+| Triyumph Technologies Nepal | Period of work (Nov 1, 2020 - Today) |
 |:---------:|:----------------------------------:|
-| Flutter Dev | Description about position 2 |
+| Flutter Dev | Worked as a Lead Flutter Developer and working and maintaining different clients projects. |
 
 
 

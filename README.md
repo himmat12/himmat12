@@ -83,7 +83,7 @@
 
 #### Work experience:
 
-| Code IT | Period of work (Oct 6, 2019 - Jul 29, 2020) |
+| ![Code IT](https://codeitapps.com/) | Period of work (Oct 6, 2019 - Jul 29, 2020) |
 |:---------:|:----------------------------------:|
 | Flutter Dev | Worked as Junior Flutter Developer |
 

@@ -87,9 +87,9 @@
 |:---------:|:----------------------------------:|
 | Flutter Dev | Worked as Junior Flutter Developer |
 
-| [Triyumph Technologies Nepal](https://triumphtech.com.np/) | Period of work (Nov 1, 2020 - Today) |
+| [Triyumph Technologies Nepal](https://triumphtech.com.np/) | Period of work (Nov 1, 2020 - Nov , 2021) |
 |:---------:|:----------------------------------:|
-| Flutter Dev | Worked as a Lead Flutter Developer, maintaining different clients projects. |
+| Flutter Dev | Worked as a Mid-lvl Flutter Developer, maintaining different clients projects. |
 
 
 

@@ -18,6 +18,13 @@
 - ⚡ Fun fact: no **fun facts** sorry to **disppoint** you 
  -->
  
+#### Social links:
+
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/himmat12) 
+[<img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/himmat_1241)
+[<img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/himmat-rai-3031161a4/)
+[<img alt="Youtube" src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/c/FlutterInsights/)
+
 #### Programming languages:
 
 <p>
@@ -100,12 +107,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=himmat12&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himmat12&layout=compact&theme=cobalt&hide_border=true" />
-
-#### Contact Me:
-
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/himmat12) 
-[<img alt="Github" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/himmat_1241)
-[<img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/himmat-rai-3031161a4/)
 
 
 

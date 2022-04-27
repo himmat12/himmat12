@@ -18,6 +18,8 @@
 - ⚡ Fun fact: no **fun facts** sorry to **disppoint** you 
  -->
  
+ > # [updated resume 2022](https://drive.google.com/file/d/1q1UMrimVCSWKFqsuEtt36crlDxY8vBsc/view?usp=sharing)
+ 
 #### Social links:
 
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/himmat12) 

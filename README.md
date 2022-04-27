@@ -18,7 +18,7 @@
 - ⚡ Fun fact: no **fun facts** sorry to **disppoint** you 
  -->
  
- > # [updated resume 2022](https://drive.google.com/file/d/1q1UMrimVCSWKFqsuEtt36crlDxY8vBsc/view?usp=sharing)
+ > # [updated resume 2022](https://drive.google.com/file/d/1y5q6XSEE9UtrnEOsij6z_AHHHlMDsHYb/view?usp=sharing)
  
 #### Social links:
 

@@ -18,7 +18,7 @@
 - ⚡ Fun fact: no **fun facts** sorry to **disppoint** you 
  -->
  
- > # [updated CV 2022](https://www.canva.com/design/DAE_ClnUKdU/uJbaLvxnDUPMsp85IrnU5Q/view?utm_content=DAE_ClnUKdU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+ > # [updated CV 2022](https://drive.google.com/file/d/14KmLwhbK_PE8bSjCNXRep9E5c1pTPGm1/view?usp=sharing)
  
 #### Social links:
 

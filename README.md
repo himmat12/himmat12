@@ -11,7 +11,6 @@ I'm a passionate second-year Computer Science student at De Montfort University,
 
 🔭 **Projects**:
 - Currently developing a Scala-based chess engine with advanced algorithms like Minimax and alpha-beta pruning.
-- Exploring innovative ideas like a secondhand bicycle marketplace model using machine learning to assess bike conditions from images and videos.
 
 🌱 **On My Learning Path**:
 - **Mastering Data Structures and Algorithms**: Building a solid foundation in advanced data structures and algorithmic thinking, essential for efficient problem-solving and technical interviews.

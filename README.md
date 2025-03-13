@@ -248,16 +248,6 @@ const languages = {
 
 ---
 
-## 📋 REFERENCES
-
-<div align="start">
-  
-**Available upon request**
-
-</div>
-
----
-
 <div align="start">
   
 _Last updated: March 2025_

@@ -1,7 +1,7 @@
 # 💻 HIMMAT RAI
 
 <div style="border-left: 4px solid #0077B5; padding-left: 20px; margin: 10px 0;">
-Currently doing a placement year at NEXT PLC as Software Developer in Stock & Pricing Technology domain.
+Final year CS and recently completed a placement year at NEXT plc as Software Developer.
 </div>
 
 ---

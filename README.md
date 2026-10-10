@@ -19,11 +19,11 @@ I recently completed a Software Engineering placement at **NEXT**, where I contr
 - **[Local LLM Inference Service Infrastructure](https://github.com/himmat12/Local-LLM-Inferense-Service-Infra)**  
   Docker Compose-based Ollama inference service deployed on a Linux homelab server, with container isolation, persistent model storage, a Python client, Tailscale-based private access, and GitHub Actions deployment automation.
 
-- **[Containerised Parallel Compute Pipeline]()**  
+- **[Containerised Parallel Compute Pipeline](https://github.com/himmat12/containerised-parallel-compute-pipeline.git)**  
   A Python, Celery, Redis, and Docker pipeline that distributed prime-factorisation work across four workers and reduced runtime by 26%.
 
-- **[AI Triage Prototype]()**  
-  A real-time conversational voice prototype built with Python, FastAPI, SQLite, Pipecat, Daily, STT, LLM, and TTS components for structured patient-intake workflows.
+- **[Medical AI Triage - Realtime Conversational Voice Bot POC](https://github.com/himmat12/medical-ai-triage-poc.git)**  
+  A real-time conversational medical voicebot prototype powered by Infremedica Engine API and built with Python, FastAPI, SQLite, Pipecat, Daily, and STT, LLM, and TTS audio processing pipeline for structured patient-intake workflows and triage.
 
 ## Research
 

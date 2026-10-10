@@ -2,7 +2,7 @@
 
 **Computer Science student at De Montfort University · Software Engineer · Systems and AI Infrastructure Enthusiast**
 
-I build backend services and infrastructure focused projects, with interests in distributed systems, secure software delivery, privacy-preserving AI, and low-latency computing.
+I build backend services and infrastructure focused projects, with interests in distributed systems, secure software delivery, privacy-preserving AI, and performance systems engineering.
 
 I recently completed a Software Engineering placement at **NEXT**, where I contributed to production supply-chain logistics systems using C#, ASP.NET Core, SQL Server, Azure, and REST APIs. My work included backend development, database design, secure service migrations, testing, deployment, and technical documentation.
 

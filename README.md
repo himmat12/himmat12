@@ -14,7 +14,7 @@ I recently completed a Software Engineering placement at **NEXT**, where I contr
 - Privacy-preserving LLM inference and systems performance
 - Algorithms, data structures, and systems programming
 
-## Selected Work
+## Projects
 
 - **[Local LLM Inference Service Infrastructure](https://github.com/himmat12/Local-LLM-Inferense-Service-Infra)**  
   Docker Compose-based Ollama inference service deployed on a Linux homelab server, with container isolation, persistent model storage, a Python client, Tailscale-based private access, and GitHub Actions deployment automation.
@@ -24,10 +24,6 @@ I recently completed a Software Engineering placement at **NEXT**, where I contr
 
 - **[Medical AI Triage - Realtime Conversational Voice Bot POC](https://github.com/himmat12/medical-ai-triage-poc.git)**  
   A real-time conversational medical voicebot prototype powered by Infremedica Engine API and built with Python, FastAPI, SQLite, Pipecat, Daily, and STT, LLM, and TTS audio processing pipeline for structured patient-intake workflows and triage.
-
-## Research
-
-I am undertaking supervised research with a Senior Lecturer in Big Data and Machine Learning at De Montfort University. My current work explores privacy-preserving LLM inference, including fully homomorphic encryption, latency and communication-cost trade-offs, ciphertext–plaintext hybrid computation, and private adaptation approaches.
 
 ## Tech
 

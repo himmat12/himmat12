@@ -27,9 +27,17 @@ I recently completed a Software Engineering placement at **NEXT**, where I contr
 
 ## Tech
 
-| Languages                                   | Frameworks & APIs                  | DevOps & Infrastructure                                    | Databases & Caching                      |
-| ------------------------------------------- | ---------------------------------- | ---------------------------------------------------------- | ---------------------------------------- |
-| `Python` `C#` `SQL` `JavaScript` `TypeScript` | `ASP.NET Core` `FastAPI` `REST APIs` | `Docker` `Linux` `GitHub Actions` `Azure DevOps` `Tailscale` | `SQL Server` `PostgreSQL` `SQLite` `Redis` |
+| Technical Area                | Skills                                                                                                              |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Programming Languages         | Python, C#, SQL, JavaScript, TypeScript                                                                             |
+| Backend Development           | ASP.NET Core, FastAPI, REST API Development                                                                         |
+| Databases & Caching           | SQL Server, PostgreSQL, SQLite, Redis                                                                               |
+| DevOps & Infrastructure       | Docker, Linux, GitHub Actions, Azure DevOps, Tailscale                                                              |
+| Data Analysis & Visualisation | Pandas, NumPy, Matplotlib, Exploratory Data Analysis (EDA), Notebooks                                               |
+| Data Engineering              | Apache Spark, Extract, Transform, Load (ETL), Data Preparation                                                      |
+| Data Preprocessing            | Data Cleaning, Missing-Value Imputation, Categorical Encoding, Feature Scaling, Data Indexing, Train–Test Splitting |
+| Machine Learning              | Supervised Learning, Classification, Regression, Model Training, Prediction                                         |
+| Model Evaluation              | Accuracy, Precision, Recall, F1 Score, Confusion Matrices                                                           |
 
 ## Connect
 

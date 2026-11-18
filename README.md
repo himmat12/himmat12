@@ -20,7 +20,7 @@ I recently completed a Software Engineering placement at **NEXT**, where I contr
   Docker Compose-based Ollama inference service deployed on a Linux homelab server, with container isolation, persistent model storage, a Python client, Tailscale-based private access, and GitHub Actions deployment automation.
 
 - **[Containerised Parallel Compute Pipeline](https://github.com/himmat12/containerised-parallel-compute-pipeline.git)**  
-  A Python, Celery, Redis, and Docker pipeline that distributed prime-factorisation work across four workers and reduced runtime by 25s compared to baseline of 101s running in single process.
+  A Python, Celery, Redis, and Docker pipeline that distributed prime-factorisation work across four workers and reduced end-to-end computation runtime by 25s compared to baseline of 101s computed with a single process.
 
 - **[Medical AI Triage - Realtime Conversational Voice Bot POC](https://github.com/himmat12/medical-ai-triage-poc.git)**  
   A real-time conversational medical voicebot prototype powered by Infremedica Engine API and built with Python, FastAPI, SQLite, Pipecat, Daily, and STT, LLM, and TTS audio processing pipeline for structured patient-intake workflows and triage.

@@ -35,9 +35,9 @@ I recently completed a Software Engineering placement at **NEXT**, where I contr
 | DevOps & Infrastructure       | Docker, Linux, GitHub Actions, Azure DevOps, Tailscale                                                              |
 | Data Analysis & Visualisation | Pandas, NumPy, Matplotlib, Exploratory Data Analysis (EDA), Notebooks                                               |
 | Data Engineering              | Apache Spark, Extract, Transform, Load (ETL), Data Preparation                                                      |
-| Data Preprocessing            | Data Cleaning, Missing-Value Imputation, Categorical Encoding, Feature Scaling, Data Indexing, Train–Test Splitting |
+| Data Preprocessing            | Data Cleaning, Missing-Value Imputation, Categorical Encoding, Feature Scaling, Data Indexing, Train/Test Splitting |
 | Machine Learning              | Supervised Learning, Classification, Regression, Model Training, Prediction                                         |
-| Model Evaluation              | Accuracy, Precision, Recall, F1 Score, Confusion Matrices                                                           |
+| Model Evaluation              | Cross-Validaiton, Accuracy, Precision, Recall, F1 Score, Confusion Matrices                                                           |
 
 ## Connect
 

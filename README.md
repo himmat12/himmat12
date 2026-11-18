@@ -29,7 +29,7 @@ I recently completed a Software Engineering placement at **NEXT**, where I contr
 
 | Languages                                   | Frameworks & APIs                  | DevOps & Infrastructure                                    | Databases & Caching                      |
 | ------------------------------------------- | ---------------------------------- | ---------------------------------------------------------- | ---------------------------------------- |
-| Python · C# · SQL · JavaScript · TypeScript | ASP.NET Core · FastAPI · REST APIs | Docker · Linux · GitHub Actions · Azure DevOps · Tailscale | SQL Server · PostgreSQL · SQLite · Redis |
+| `Python` `C#` `SQL` `JavaScript` `TypeScript` | `ASP.NET Core` `FastAPI` `REST APIs` | `Docker` `Linux` `GitHub Actions` `Azure DevOps` `Tailscale` | `SQL Server` `PostgreSQL` `SQLite` `Redis` |
 
 ## Connect
 
